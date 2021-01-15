@@ -4,4 +4,4 @@ import requests
 # print(requests.__version__)
 
 # question 10
-print(requests.get('https://raw.githubusercontent.com/orackle/CMPUT404-lab1/main/script.py').text)
+print(requests.get('https://raw.githubusercontent.com/orackle/cmput404-lab1/main/script.py').text)
